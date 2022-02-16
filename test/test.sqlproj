@@ -178,6 +178,7 @@
     <None Include="Schema-Model\dbo\Tables\Abstract.sql" />
     <None Include="Schema-Model\dbo\Tables\Abstract1.sql" />
     <None Include="Migrations\001_jira123.sql" />
+    <None Include="Migrations\002_jira1234.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Pre-Deployment\01_Initialize_Deployment.sql" />
